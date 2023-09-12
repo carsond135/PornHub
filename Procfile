@@ -1,1 +1,1 @@
-web: python3 -m PornHub
+worker: python3 -m PornHub
